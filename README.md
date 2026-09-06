@@ -1,33 +1,33 @@
-# Hi 👋, I'm Bilal Ahmad
+# Bilal Ahmad — Software Engineer & Full-Stack Developer
 
-### Software Engineer | Full-Stack Developer | Founder of BeaconHub Solutions
+### Python · Django · React · Next.js · PostgreSQL · REST APIs · Data Analytics · AI Automation
 
-I’m a Software Engineer and Full-Stack Developer focused on building practical, scalable, and business-oriented digital solutions. I work across web development, Python/Django applications, modern frontend technologies, automation, data analytics, and technical SEO.
+I’m **Bilal Ahmad**, a Software Engineer and Full-Stack Developer focused on building secure, scalable, and business-oriented software solutions. I specialize in **Python/Django development, full-stack web applications, REST APIs, React and Next.js applications, PostgreSQL systems, data analytics, AI-powered automation, and technical SEO**.
 
-🌐 **Founder:** [BeaconHub Solutions](https://www.beaconhubsolutions.com)
+I’m the **Founder of [BeaconHub Solutions](https://www.beaconhubsolutions.com)**, where we build practical technology solutions for businesses, startups, and organizations.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
 - 🎓 Software Engineering graduate from **MUST — Mirpur University of Science & Technology, Azad Kashmir**
 - 💼 Founder of **BeaconHub Solutions**
-- 🌐 Full-Stack Developer working with modern web technologies
-- 🐍 Experienced with **Python, Django & Django REST Framework**
-- ⚛️ Building responsive applications with **React & Next.js**
-- 📊 Interested in **Data Analytics, BI, AI & Automation**
-- 📈 Focused on **Technical SEO, performance and scalable software architecture**
-- 🎯 Passionate about solving real business problems through technology
+- 🐍 **Python & Django Developer** building business applications and backend systems
+- ⚛️ **Full-Stack Developer** working with React, Next.js and modern web technologies
+- 🔌 Experienced with **Django REST Framework & REST API development**
+- 🗄️ Building data-driven applications with **PostgreSQL**
+- 📊 Working with **Data Analytics, Power BI, AI & Automation**
+- 📈 Focused on performance, maintainability, security and **Technical SEO**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Technology Stack
 
-### Frontend
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Bootstrap` `Tailwind CSS`
-
-### Backend
+### Backend Engineering
 `Python` `Django` `Django REST Framework` `REST APIs`
+
+### Frontend Engineering
+`JavaScript` `TypeScript` `React` `Next.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
 
 ### Databases
 `PostgreSQL` `MySQL` `SQLite` `Neon PostgreSQL`
@@ -35,50 +35,55 @@ I’m a Software Engineer and Full-Stack Developer focused on building practical
 ### Data, AI & Automation
 `Python Automation` `Data Analytics` `Power BI` `AI Integrations` `Business Automation`
 
-### Tools & Deployment
+### Development & Deployment
 `Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `Docker`
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Selected Engineering Work
 
 ### 🌐 BeaconHub Solutions
-A technology solutions company focused on full-stack software development, AI & automation, data analytics, cybersecurity, and digital growth solutions.
+Full-stack software development, AI & automation, data analytics, cybersecurity, and digital growth solutions for modern businesses.
 
-**Website:** https://www.beaconhubsolutions.com
+**Website:** [www.beaconhubsolutions.com](https://www.beaconhubsolutions.com)
 
 ### 💊 Pharmacy Management System
-A business management application for medicine inventory, sales, invoicing, expiry alerts, stock monitoring, revenue tracking, and profit reporting.
+A Python/Django business application for pharmacy inventory, medicine management, sales and invoicing, expiry alerts, stock monitoring, revenue analytics, and profit reporting.
 
-**Core Stack:** Python · Django · PostgreSQL
+**Technology:** Python · Django · PostgreSQL
 
 ### 📱 Mobile Shop Management System
-An inventory and sales management system with product management, stock tracking, billing, invoices, dashboards, and business reporting.
+A Django-based inventory and sales management system featuring product management, stock tracking, billing, invoices, dashboards, and business reporting.
 
-**Core Stack:** Python · Django · PostgreSQL
+**Technology:** Python · Django · PostgreSQL
 
 ### 📊 Data Analytics & Business Intelligence
-Projects and practical work involving data analysis, reporting, dashboards, and data-driven decision support.
+Practical data-analysis and reporting work focused on dashboards, business insights, analytics, and data-driven decision support.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Engineering Focus
 
-- Scalable full-stack web applications
-- Python & Django business systems
-- AI-powered automation
-- Data analytics and BI solutions
-- High-performance, SEO-friendly websites
-- Cloud deployment and modern software architecture
+I currently focus on:
+
+- Full-stack web application development
+- Python and Django business systems
+- REST API development and integration
+- React and Next.js applications
+- PostgreSQL database-backed systems
+- AI-powered business automation
+- Data analytics and Power BI
+- Cloud deployment and scalable software architecture
+- High-performance and SEO-friendly web applications
 
 ---
 
 ## 🤝 Connect With Me
 
-🌐 **Website:** https://www.beaconhubsolutions.com  
+🌐 **Portfolio & Company:** [BeaconHub Solutions](https://www.beaconhubsolutions.com)  
 📧 **Email:** engineer.bilalahmad12@gmail.com  
-💼 **GitHub:** https://github.com/BilalAhmadS
+💻 **GitHub:** [github.com/BilalAhmadS](https://github.com/BilalAhmadS)
 
 ---
 
-> **Building practical technology solutions that create measurable business value.**
+> **Building secure, scalable and practical software solutions that solve real business problems.**
