@@ -1,152 +1,84 @@
 # Hi 👋, I'm Bilal Ahmad
 
-### 💻 Software Engineer | Full-Stack Developer | Founder of Bilal Tech Solutions
+### Software Engineer | Full-Stack Developer | Founder of BeaconHub Solutions
 
-I help businesses transform ideas into modern, scalable, and high-performance digital solutions. My expertise spans full-stack web development, AI-powered applications, business automation, and SEO-focused websites that deliver real business value.
+I’m a Software Engineer and Full-Stack Developer focused on building practical, scalable, and business-oriented digital solutions. I work across web development, Python/Django applications, modern frontend technologies, automation, data analytics, and technical SEO.
 
----
-
-## 🚀 About Me
-
-- 💼 Founder of **Bilal Tech Solutions**
-- 🌍 Building scalable software solutions for clients worldwide
-- 🚀 Specialized in custom business applications and digital transformation
-- 🤖 Passionate about Artificial Intelligence, Automation & Data Solutions
-- 📈 Creating SEO-optimized websites that help businesses grow online
-- 🎯 Focused on delivering clean, secure, and maintainable software
+🌐 **Founder:** [BeaconHub Solutions](https://www.beaconhubsolutions.com)
 
 ---
 
-## 💼 Services
+## 👨‍💻 About Me
 
-- 🌐 Custom Website Development
-- ⚙️ Full-Stack Web Application Development
-- 🐍 Python & Django Development
-- 🤖 AI & Intelligent Business Solutions
-- 📊 Data Analytics & Reporting Solutions
-- 🖥 Desktop Application Development
-- 🔌 REST API Development & Integration
-- 🗄 Database Design & Optimization
-- 📈 Technical SEO & Website Optimization
-- 📱 Responsive UI/UX Development
-- ☁️ Cloud Deployment & Hosting
-- 🛠 Software Maintenance & Support
+- 🎓 Software Engineering graduate from **MUST — Mirpur University of Science & Technology, Azad Kashmir**
+- 💼 Founder of **BeaconHub Solutions**
+- 🌐 Full-Stack Developer working with modern web technologies
+- 🐍 Experienced with **Python, Django & Django REST Framework**
+- ⚛️ Building responsive applications with **React & Next.js**
+- 📊 Interested in **Data Analytics, BI, AI & Automation**
+- 📈 Focused on **Technical SEO, performance and scalable software architecture**
+- 🎯 Passionate about solving real business problems through technology
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js` `Bootstrap` `Tailwind CSS`
 
 ### Backend
-- Python
-- Django
-- Django REST Framework
-- Node.js (Learning)
+`Python` `Django` `Django REST Framework` `REST APIs`
 
-### Database
-- PostgreSQL
-- MySQL
-- SQLite
+### Databases
+`PostgreSQL` `MySQL` `SQLite` `Neon PostgreSQL`
 
-### AI & Data
-- Python Automation
-- AI Integration
-- Data Analytics
-- Machine Learning Fundamentals
+### Data, AI & Automation
+`Python Automation` `Data Analytics` `Power BI` `AI Integrations` `Business Automation`
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Postman
-- Prisma ORM
-- Vercel
-- Docker (Learning)
+### Tools & Deployment
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Render` `Docker`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Work
 
-### 🌐 Bilal Tech Solutions Website
-A modern, SEO-optimized business website built to showcase software development services, portfolio, and blogs while targeting global clients.
+### 🌐 BeaconHub Solutions
+A technology solutions company focused on full-stack software development, AI & automation, data analytics, cybersecurity, and digital growth solutions.
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Prisma, PostgreSQL
-
----
+**Website:** https://www.beaconhubsolutions.com
 
 ### 💊 Pharmacy Management System
-A complete desktop-based pharmacy solution featuring inventory management, medicine tracking, sales management, expiry alerts, profit reports, revenue analytics, and stock monitoring.
+A business management application for medicine inventory, sales, invoicing, expiry alerts, stock monitoring, revenue tracking, and profit reporting.
 
-**Tech Stack:** Python, Django, PostgreSQL
-
----
+**Core Stack:** Python · Django · PostgreSQL
 
 ### 📱 Mobile Shop Management System
-A complete inventory and sales management system for mobile shops with product management, stock tracking, billing, invoices, reports, dashboards, and customer management.
+An inventory and sales management system with product management, stock tracking, billing, invoices, dashboards, and business reporting.
 
-**Tech Stack:** Python, Django, PostgreSQL
+**Core Stack:** Python · Django · PostgreSQL
 
----
-
-### 📦 Inventory Management System
-A business inventory solution with stock management, purchase records, supplier management, sales tracking, reporting, and analytics.
-
-**Tech Stack:** Python, Django, PostgreSQL
-
----
-
-### 🏢 Business Management Systems
-Custom software solutions designed to automate business operations, manage employees, customers, inventory, sales, and reporting.
-
----
-
-### 🤖 AI & Automation Solutions
-Developing AI-powered applications, intelligent workflows, and automation tools that improve productivity and business efficiency.
-
----
-
-### 📊 Data Analytics & Reporting Solutions
-Building interactive dashboards, business reports, and analytical solutions to help organizations make data-driven decisions.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Cloud Computing
-- Artificial Intelligence
-- DevOps & CI/CD
-- Scalable Software Architecture
+### 📊 Data Analytics & Business Intelligence
+Projects and practical work involving data analysis, reporting, dashboards, and data-driven decision support.
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable web applications
-- AI-powered business solutions
-- SEO-focused websites
-- Business automation systems
-- High-performance full-stack applications
+- Scalable full-stack web applications
+- Python & Django business systems
+- AI-powered automation
+- Data analytics and BI solutions
+- High-performance, SEO-friendly websites
+- Cloud deployment and modern software architecture
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-📧 **Email:** engineer.bilalahmad12@gmail.com
-
-🌐 **Website:** https://your-domain.com *(Coming Soon)*
-
-💼 **Company:** Bilal Tech Solutions
+🌐 **Website:** https://www.beaconhubsolutions.com  
+📧 **Email:** engineer.bilalahmad12@gmail.com  
+💼 **GitHub:** https://github.com/BilalAhmadS
 
 ---
 
-> **"Building technology that solves real business problems through modern software, AI, and scalable web solutions."**
+> **Building practical technology solutions that create measurable business value.**
